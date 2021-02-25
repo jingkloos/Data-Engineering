@@ -1,0 +1,22 @@
+[
+  {
+  "mode": "NULLABLE",
+  "name": "avg_departure_delay",
+  "type": "FLOAT"
+},
+  {
+  "mode": "NULLABLE",
+  "name": "avg_arrival_delay",
+  "type": "FLOAT"
+},
+  {
+  "mode": "NULLABLE",
+  "name": "flight_num",
+  "type": "INTEGER"
+},
+  {
+  "mode": "NULLABLE",
+  "name": "flight_date",
+  "type": "DATE"
+}
+]
