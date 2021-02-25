@@ -1,0 +1,8 @@
+.idea
+__pycache__
+.DS_Store
+creds.json
+csv-files
+Pipfile
+Pipfile.lock
+test.py
